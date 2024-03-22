@@ -1,0 +1,5 @@
+﻿.form-group.with-separator {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 15px; /* Espacio adicional opcional */
+    margin-bottom: 15px; /* Espacio adicional opcional */
+}
